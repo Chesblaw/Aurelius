@@ -24,7 +24,7 @@ Aurelius is crafted to feel less like a typical Web3 dashboard and more like a *
 ### 🔐 Authentication & Access
 
 - Passkey-based, passwordless authentication
-- Secure session handling with server-side enforcement
+- Secure session handling with lib-side enforcement
 - Granular access control for sensitive actions
 
 ### 💰 Treasury Orchestration
@@ -51,7 +51,7 @@ Aurelius is crafted to feel less like a typical Web3 dashboard and more like a *
 
 ### Backend & Services
 
-- **Supabase** for database, auth, and server-side rendering support
+- **Supabase** for database, auth, and lib-side rendering support
 - Service-oriented API structure for long-term scalability
 
 ### Smart Contracts
