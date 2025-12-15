@@ -19,6 +19,7 @@ import { WalletConnectButton } from '../wallet/ConnectButton'
 
 const navItems = [
   { name: 'Proposals', path: '/proposals', icon: FileText },
+	{ name: 'Treasury', path: '/treasury', icon: <CircleDollarSign size={20} /> },
 
 ]
 
@@ -56,7 +57,6 @@ const Header = () => {
                     }
                   `}
                 >
-                  <Icon size={18} />
                   <span>{name}</span>
 
                   {/* Active underline */}
