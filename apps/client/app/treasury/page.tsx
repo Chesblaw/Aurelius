@@ -7,7 +7,7 @@ import { ThemeWrapper } from '@/components/ui/theme-wrapper'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-	title: 'Treasury | Harmonia',
+	title: 'Treasury | Aurelius',
 	description: 'Manage your DAO treasury assets and transactions',
 }
 
