@@ -21,6 +21,7 @@ const navItems = [
   { name: 'Proposals', path: '/proposals', icon: FileText },
 	{ name: 'Treasury', path: '/treasury', icon: <CircleDollarSign size={20} /> },
 	{ name: 'Analytics', path: '/analytics', icon: <BarChart3 size={20} /> },
+	{ name: 'Members', path: '/members', icon: <Users size={20} /> },
 ]
 
 const Header = () => {
