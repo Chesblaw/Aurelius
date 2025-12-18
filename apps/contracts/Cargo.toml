@@ -3,7 +3,8 @@ resolver = "2"
 members = [
   "proposal-contract",
   "treasury",
-  "dispute-resolution-contract"
+  "dispute-resolution-contract",
+  "member-registry"
 ]
 
 [workspace.dependencies]
