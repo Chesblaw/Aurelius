@@ -4,7 +4,8 @@ members = [
   "proposal-contract",
   "treasury",
   "dispute-resolution-contract",
-  "member-registry"
+  "member-registry",
+  "referral-contract"
 ]
 
 [workspace.dependencies]
