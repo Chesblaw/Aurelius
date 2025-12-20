@@ -5,7 +5,8 @@ members = [
   "treasury",
   "dispute-resolution-contract",
   "member-registry",
-  "referral-contract"
+  "referral-contract",
+  "role-manager",
 ]
 
 [workspace.dependencies]
