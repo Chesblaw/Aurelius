@@ -1,39 +1,39 @@
 # Aurelius
 Aurelius is an enterprise‑grade decentralized governance and treasury orchestration platform designed for modern DAOs and on‑chain organizations. Built with performance, security, and automation at its core
 
-## ✨ Vision
+##  Vision
 
 Aurelius is crafted to feel less like a typical Web3 dashboard and more like a **digital boardroom for decentralized organizations** — opinionated, secure, and highly automated.
 
 ---
 
-## 🚀 Core Capabilities
+##  Core Capabilities
 
-### 🏛️ Governance Engine
+###  Governance Engine
 
 - Proposal lifecycle management (draft → review → vote → execution)
 - Transparent, on-chain voting with verifiable results
 - Role-aware permissions for contributors, councils, and delegates
 
-### 🤖 Intelligence Layer
+###  Intelligence Layer
 
 - AI-assisted proposal drafting and impact summaries
 - Governance health insights and voting pattern analysis
 - Automated workflow suggestions for recurring DAO operations
 
-### 🔐 Authentication & Access
+###  Authentication & Access
 
 - Passkey-based, passwordless authentication
 - Secure session handling with lib-side enforcement
 - Granular access control for sensitive actions
 
-### 💰 Treasury Orchestration
+###  Treasury Orchestration
 
 - Multi-signature treasury controls
 - Transaction simulation and approval flows
 - Audit-friendly financial activity tracking
 
-### ⚙️ Smart Contract Infrastructure
+###  Smart Contract Infrastructure
 
 - Rust-based Soroban contracts on Stellar
 - Deterministic execution for governance and treasury logic
@@ -41,7 +41,7 @@ Aurelius is crafted to feel less like a typical Web3 dashboard and more like a *
 
 ---
 
-## 🧰 Technology Stack
+##  Technology Stack
 
 ### Frontend
 
@@ -66,7 +66,7 @@ Aurelius is crafted to feel less like a typical Web3 dashboard and more like a *
 
 ---
 
-## 🏗 Monorepo Layout
+##  Monorepo Layout
 ```
 Aurelius/
 ├── .husky/ # Git hooks & quality gates
@@ -94,7 +94,7 @@ Aurelius/
 
 ---
 
-## 🏃 Local Development
+##  Local Development
 
 ### Requirements
 
