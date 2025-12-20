@@ -1,0 +1,22 @@
+[package]
+name = "notification-router"
+version = "0.1.0"
+edition = "2021"
+description = "Notification router for Harmonia DAO platform on Stellar"
+authors = ["Harmonia Team"]
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/big14way/harmonia-dapp"
+keywords = ["stellar", "soroban", "blockchain", "smart-contract", "notifications"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+soroban-sdk = "22.0.7"
+
+[dev-dependencies]
+soroban-sdk = { version = "22.0.7", features = ["testutils"] }
+
+[features]
+testutils = ["soroban-sdk/testutils"]
