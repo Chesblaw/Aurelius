@@ -1,7 +1,7 @@
 #![no_std]
 //! # Notification Router Contract
 //!
-//! This Soroban smart contract serves as a central notification hub for the Harmonia DAO platform.
+//! This Soroban smart contract serves as a central notification hub for the Aurelius DAO platform.
 //! It provides standardized event emission for various categories of platform activities,
 //! allowing for a consistent notification pattern across the DAO ecosystem.
 //!
