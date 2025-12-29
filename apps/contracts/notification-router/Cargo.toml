@@ -2,11 +2,11 @@
 name = "notification-router"
 version = "0.1.0"
 edition = "2021"
-description = "Notification router for Harmonia DAO platform on Stellar"
-authors = ["Harmonia Team"]
+description = "Notification router for Aurelius DAO platform on Stellar"
+authors = ["Aurelius Team"]
 readme = "README.md"
 license = "MIT"
-repository = "https://github.com/big14way/harmonia-dapp"
+repository = "https://github.com/big14way/Aurelius-dapp"
 keywords = ["stellar", "soroban", "blockchain", "smart-contract", "notifications"]
 
 [lib]
